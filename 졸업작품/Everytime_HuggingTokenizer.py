@@ -7,7 +7,7 @@ sys.stderr = io.TextIOWrapper(sys.stderr.detach(), encoding = 'utf-8')
 
 from transformers import AutoModel, AutoTokenizer
 
-model_name = "klue/roberta-base"  # »ç¿ëÇÏ·Á´Â ¸ğµ¨ÀÇ ÀÌ¸§À» ÀÔ·ÂÇÏ¼¼¿ä.
+model_name = "klue/roberta-base"  # ì‚¬ìš©í•˜ë ¤ëŠ” ëª¨ë¸ì˜ ì´ë¦„ì„ ì…ë ¥í•˜ì„¸ìš”.
 model = AutoModel.from_pretrained(model_name)
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 
