@@ -53,4 +53,4 @@ Feel free to explore, contribute, and provide feedback on the materials provided
 
 ## 📫 Contact
 
-For any queries or contributions, please reach out via [email](pkt45349048@gmail.com).
+For any queries or contributions, please reach out via pkt45349048@gmail.com.
